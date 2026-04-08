@@ -1,0 +1,10 @@
+name: SmartEnergyEnv
+version: 1.0
+description: Household energy optimization environment
+tasks:
+  - id: task1
+    description: Turn off unused devices at night
+  - id: task2
+    description: Optimize thermostat usage
+  - id: task3
+    description: Schedule appliances during low-tariff hours
